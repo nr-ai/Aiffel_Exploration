@@ -2,8 +2,9 @@
 
 ## 자연어처리 (NLP)
 
-|Topic|Tech|Code|
+|<div style="width:200px">Topic</div>|Tech|Code|
 |------|---|---|
+|형태소 분석|KoNLPy, MeCab, SentencePiece|[SentencePiece.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/SentencePiece.ipynb)
 |뉴스 기사 크롤링 및 분류|TF-IDF, naive bayes|[Crawling_news.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Crawling_news.ipynb)|
 |영화 리뷰 감성 분석 (영어)|Word2Vec, CNN|[Movie(Eng)review_sentiments.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Movie(Eng)_review_sentiments.ipynb)|
 |영화 리뷰 감성 분석 (한글)|LSTM, CNN, Word2Vec|[Movie(Kor)review_sentiments.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Movie(Kor)_review_sentiments.ipynb)|
@@ -11,11 +12,9 @@
 |영어-프랑스어 번역기|LSTM|[translator_fin.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/translator_fin.ipynb)|
 |뉴스 요약|LSTM, Attention|[NewsSummaryBot.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/NewsSummaryBot.ipynb)|
 |대화형 챗봇|Transformer|[Chatbot.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Chatbot.ipynb)|
-|형태소 분석|KoNLPy, MeCab, SentencePiece|[SentencePiece.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/SentencePiece.ipynb)
-
 
 ## 이미지 (Vision)
-|Topic|Tech|Code|
+|<div style="width:200px">Topic</div>|Tech|Code|
 |------|---|---|
 |가위바위보 이미지 분류|CNN|[RockScissorsPaper.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/RockScissorsPaper.ipynb)|
 |꽃 분류|VGG16|[FlowerClassifier.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/FlowerClassifier.ipynb)|
@@ -30,7 +29,7 @@
 
 
 ## 데이터 분석
-|Topic|Tech|Code|
+|<div style="width:200px">Topic</div>|Tech|Code|
 |------|---|---|
 |유방암 진단|DecisionTreeClassifier, Support Vector Machine (SVM), SGD Classifier, Logistic Regression, RandomForestClassifier|[Data mining.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Data%20mining.ipynb)|
 |자전거 대여량 예측|Linear Regression|[LinearRegression.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/LinearRegression.ipynb)|

@@ -4,8 +4,7 @@
 
 |Topic|Tech|Code|
 |------|---|---|
-|뉴스 기사 크롤링 및 분류|Mecab, TF-IDF, naive bayes|[
-Crawling_news.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Crawling_news.ipynb)|
+|뉴스 기사 크롤링 및 분류|Mecab, TF-IDF, naive bayes|[Crawling_news.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Crawling_news.ipynb)|
 |영화 리뷰 감성 분석 (영어)|Word2Vec, CNN|[Movie(Eng)review_sentiments.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Movie(Eng)_review_sentiments.ipynb)|
 |영화 리뷰 감성 분석 (한글)|LSTM, CNN, Word2Vec|[Movie(Kor)review_sentiments.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Movie(Kor)_review_sentiments.ipynb)|
 |인공지능 작사가|LSTM|[Writing_Lyrics(LSTM).ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Writing_Lyrics(LSTM).ipynb)|

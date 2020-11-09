@@ -2,7 +2,7 @@
 
 ## 자연어처리 (NLP)
 
-|<div style="color:red">Topic</div>|Tech|Code|
+|Topic|Tech|Code|
 |------|---|---|
 |형태소 분석|KoNLPy, MeCab, SentencePiece|[SentencePiece.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/SentencePiece.ipynb)
 |뉴스 기사 크롤링 및 분류|TF-IDF, naive bayes|[Crawling_news.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Crawling_news.ipynb)|

@@ -7,7 +7,7 @@
 |형태소 분석|KoNLPy, MeCab, SentencePiece|[SentencePiece.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/SentencePiece.ipynb)
 |뉴스 기사 크롤링 및 분류|TF-IDF, naive bayes|[Crawling_news.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Crawling_news.ipynb)|
 |영화 리뷰 감성 분석 (영어)|Word2Vec, CNN|[Movie(Eng)review_sentiments.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Movie(Eng)_review_sentiments.ipynb)|
-|영화 리뷰 감성 분석 (한글)|LSTM, CNN, Word2Vec|[Movie(Kor)review_sentiments.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Movie(Kor)_review_sentiments.ipynb)|
+|영화 리뷰 감성 분석 (한글)&nbsp;&nbsp;|LSTM, CNN, Word2Vec|[Movie(Kor)review_sentiments.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Movie(Kor)_review_sentiments.ipynb)|
 |인공지능 작사가|LSTM|[Writing_Lyrics(LSTM).ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Writing_Lyrics(LSTM).ipynb)|
 |영어-프랑스어 번역기|LSTM|[translator_fin.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/translator_fin.ipynb)|
 |뉴스 요약|LSTM, Attention|[NewsSummaryBot.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/NewsSummaryBot.ipynb)|
@@ -33,7 +33,7 @@
 |Topic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Tech|Code|
 |------|---|---|
 |유방암 진단|Decision Tree, SVM,Logistic Regression, Random Forest|[Data mining.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Data%20mining.ipynb)|
-|자전거 대여량 예측&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Linear Regression|[LinearRegression.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/LinearRegression.ipynb)|
+|자전거 대여량 예측&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Linear Regression|[LinearRegression.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/LinearRegression.ipynb)|
 |시계열 이상치 찾기|K means Clustering, DBSCAN, AutoEncoder|[Anomaly Detection.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Super%20Resolution%20(SRGAN).ipynb)|
 |시계열 데이터 예측&nbsp;&nbsp;&nbsp;&nbsp;|Time Series Decomposition, ARIMA|[TimeSeriesForecast(ARIMA).ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/TimeSeriesForecast(ARIMA).ipynb)|
 |주식 예측|Time Series Decomposition, ARIMA|[StockForecast.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/StockForecast.ipynb)|

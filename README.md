@@ -2,6 +2,7 @@
 
 ## 자연어처리 (NLP)
 
+<div style="width:100%">
 |Topic|Tech|Code|
 |------|---|---|
 |형태소 분석|KoNLPy, MeCab, SentencePiece|[SentencePiece.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/SentencePiece.ipynb)
@@ -12,6 +13,8 @@
 |영어-프랑스어 번역기|LSTM|[translator_fin.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/translator_fin.ipynb)|
 |뉴스 요약|LSTM, Attention|[NewsSummaryBot.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/NewsSummaryBot.ipynb)|
 |대화형 챗봇|Transformer|[Chatbot.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Chatbot.ipynb)|
+    </div>
+    
 
 ## 이미지 (Vision)
 |Topic|Tech|Code|

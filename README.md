@@ -3,7 +3,7 @@
 ## 자연어처리 (NLP)
 
 |Topic|Tech|Code|
-|---:|---:|---:|
+|---|---|---|
 |형태소 분석|KoNLPy, MeCab, SentencePiece|[SentencePiece.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/SentencePiece.ipynb)
 |뉴스 기사 크롤링 및 분류|TF-IDF, naive bayes|[Crawling_news.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Crawling_news.ipynb)|
 |영화 리뷰 감성 분석 (영어)|Word2Vec, CNN|[Movie(Eng)review_sentiments.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Movie(Eng)_review_sentiments.ipynb)|

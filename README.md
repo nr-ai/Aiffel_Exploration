@@ -30,7 +30,7 @@
 
 
 ## 데이터 분석
-|Topic|Tech|Code|
+|Topic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Tech|Code|
 |------|---|---|
 |유방암 진단|DecisionTreeClassifier, Support Vector Machine (SVM), SGD Classifier, Logistic Regression, RandomForestClassifier|[Data mining.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Data%20mining.ipynb)|
 |자전거 대여량 예측|Linear Regression|[LinearRegression.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/LinearRegression.ipynb)|

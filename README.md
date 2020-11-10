@@ -6,7 +6,7 @@
 |---|---|---|
 |형태소 분석|KoNLPy, MeCab, SentencePiece|[SentencePiece.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/SentencePiece.ipynb)
 |뉴스 기사 크롤링 및 분류|TF-IDF, naive bayes|[Crawling_news.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Crawling_news.ipynb)|
-|TF-IDF 뉴스 카테고리 예측|TF-IDF, Naive bayes, Logistic regression, SVM, Decision tree, Random forest, Gradient boosting classifier, Voting|[NewsCategoryClassification.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/NewsCategoryClassification.ipynb)|
+|TF-IDF 뉴스 카테고리 예측|TF-IDF, Naive bayes|[NewsCategoryClassification.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/NewsCategoryClassification.ipynb)|
 |토픽 모델링|LSA, LDA|[Topic Modeling.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Topic%20Modeling.ipynb)|
 |워드 임베딩|Word2Vec, FastText, Glove|[WordEmbedding.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/WordEmbedding.ipynb)
 |영화 리뷰 감성 분석 (영어)|Word2Vec, CNN|[Movie(Eng)review_sentiments.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Movie(Eng)_review_sentiments.ipynb)|

@@ -6,15 +6,15 @@
 |---|---|---|
 |형태소 분석|KoNLPy, MeCab, SentencePiece|[SentencePiece.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/SentencePiece.ipynb)
 |뉴스 기사 크롤링 및 분류|TF-IDF, naive bayes|[Crawling_news.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Crawling_news.ipynb)|
-|뉴스 카테고리 예측|TF-IDF, Naive bayes, Logistic regression, SVM, Decision tree, Random forest, Gradient boosting classifier, Voting|[NewsCategoryClassification.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/NewsCategoryClassification.ipynb)|
+|TF-IDF 뉴스 카테고리 예측|TF-IDF, Naive bayes, Logistic regression, SVM, Decision tree, Random forest, Gradient boosting classifier, Voting|[NewsCategoryClassification.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/NewsCategoryClassification.ipynb)|
 |토픽 모델링|LSA, LDA|[Topic Modeling.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Topic%20Modeling.ipynb)|
+|워드 임베딩|Word2Vec, FastText, Glove|[WordEmbedding.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/WordEmbedding.ipynb)
 |영화 리뷰 감성 분석 (영어)|Word2Vec, CNN|[Movie(Eng)review_sentiments.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Movie(Eng)_review_sentiments.ipynb)|
 |영화 리뷰 감성 분석 (한글)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|LSTM, CNN, Word2Vec|[Movie(Kor)review_sentiments.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Movie(Kor)_review_sentiments.ipynb)|
 |인공지능 작사가|LSTM|[Writing_Lyrics(LSTM).ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Writing_Lyrics(LSTM).ipynb)|
 |영어-프랑스어 번역기|LSTM|[translator_fin.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/translator_fin.ipynb)|
 |뉴스 요약|LSTM, Attention|[NewsSummaryBot.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/NewsSummaryBot.ipynb)|
 |대화형 챗봇|Transformer|[Chatbot.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Chatbot.ipynb)|
-    
 
 ## 이미지 (Vision)
 |Topic|Tech|Code|

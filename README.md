@@ -5,7 +5,7 @@
 |Topic|Tech|Code|
 |---|---|---|
 |형태소 분석|KoNLPy, MeCab, SentencePiece|[SentencePiece.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/SentencePiece.ipynb)
-|뉴스 기사 크롤링 및 분류|TF-IDF, naive bayes|[Crawling_news.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Crawling_news.ipynb)|
+|뉴스 기사 크롤링 및 분류|TF-IDF, Naive bayes|[Crawling_news.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Crawling_news.ipynb)|
 |TF-IDF 뉴스 카테고리 예측|TF-IDF, Naive bayes|[NewsCategoryClassification.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/NewsCategoryClassification.ipynb)|
 |토픽 모델링|LSA, LDA|[Topic Modeling.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Topic%20Modeling.ipynb)|
 |워드 임베딩|Word2Vec, FastText, Glove|[WordEmbedding.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/WordEmbedding.ipynb)
@@ -15,6 +15,8 @@
 |영어-프랑스어 번역기|LSTM|[translator_fin.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/translator_fin.ipynb)|
 |뉴스 요약|LSTM, Attention|[NewsSummaryBot.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/NewsSummaryBot.ipynb)|
 |대화형 챗봇|Transformer|[Chatbot.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Chatbot.ipynb)|
+|퀴즈 푸는 인공지능|BERT|[KorQuAD (BERT).ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/KorQuAD%20(BERT).ipynb)
+
 
 ## 이미지 (Vision)
 |Topic|Tech|Code|

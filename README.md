@@ -41,7 +41,7 @@
 
 
 ## 데이터 분석
-|Topic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Tech|Code|
+|Topic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Tech|Code|
 |------|---|---|
 |개인화 추천 시스템|Wide&Deep model|[Lpoint](https://github.com/nr-ai/Aiffel_Exploration/tree/master/Lpoint)
 |유방암 진단|Decision Tree, SVM,Logistic Regression, Random Forest|[Data mining.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Data%20mining.ipynb)|

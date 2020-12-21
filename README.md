@@ -9,13 +9,20 @@
 |TF-IDF 뉴스 카테고리 예측|TF-IDF, Naive bayes|[NewsCategoryClassification.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/NewsCategoryClassification.ipynb)|
 |토픽 모델링|LSA, LDA|[Topic Modeling.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Topic%20Modeling.ipynb)|
 |워드 임베딩|Word2Vec, FastText, Glove|[WordEmbedding.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/WordEmbedding.ipynb)
+|임베딩 편향성 분석|WEAT|[Word Embedding Association Test (WEAT).ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Word%20Embedding%20Association%20Test%20(WEAT).ipynb)|
 |영화 리뷰 감성 분석 (영어)|Word2Vec, CNN|[Movie(Eng)review_sentiments.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Movie(Eng)_review_sentiments.ipynb)|
 |영화 리뷰 감성 분석 (한글)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|LSTM, CNN, Word2Vec|[Movie(Kor)review_sentiments.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Movie(Kor)_review_sentiments.ipynb)|
 |인공지능 작사가|LSTM|[Writing_Lyrics(LSTM).ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Writing_Lyrics(LSTM).ipynb)|
 |영어-프랑스어 번역기|LSTM|[translator_fin.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/translator_fin.ipynb)|
+|한글-영어 번역기|Transformer|[translator (Transformer).ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/translator%20(Transformer).ipynb)|
 |뉴스 요약|LSTM, Attention|[NewsSummaryBot.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/NewsSummaryBot.ipynb)|
 |대화형 챗봇|Transformer|[Chatbot.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Chatbot.ipynb)|
+|챗봇 성능 측정하기|BLEU Score, Beam Search Decoder|[translator performance.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/translator%20performance.ipynb)
+|한국어 QA 모델|bAbI dataset, Memory Network|[bAbI Korean QA.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/bAbI%20Korean%20QA.ipynb)
 |퀴즈 푸는 인공지능|BERT|[KorQuAD (BERT).ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/KorQuAD%20(BERT).ipynb)
+|BERT 모델 사전 학습|BERT|[BERTmodel.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/BERTmodel.ipynb)
+|Huggingface Transformer|Huggingface Transformer|[Hugging Face.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Hugging%20Face.ipynb)
+|VQA (Visual Question Answering)|LXMERT|[LXMERT.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/LXMERT.ipynb)
 
 
 ## 이미지 (Vision)
@@ -36,6 +43,7 @@
 ## 데이터 분석
 |Topic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Tech|Code|
 |------|---|---|
+|개인화 추천 시스템|Wide&Deep model|[Lpoint](https://github.com/nr-ai/Aiffel_Exploration/tree/master/Lpoint)
 |유방암 진단|Decision Tree, SVM,Logistic Regression, Random Forest|[Data mining.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Data%20mining.ipynb)|
 |자전거 대여량 예측&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Linear Regression|[LinearRegression.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/LinearRegression.ipynb)|
 |시계열 이상치 찾기|K means Clustering, DBSCAN, AutoEncoder|[Anomaly Detection.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Super%20Resolution%20(SRGAN).ipynb)|

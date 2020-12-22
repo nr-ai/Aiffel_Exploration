@@ -26,14 +26,14 @@
 
 
 ## 이미지 (Vision)
-|Topic|Tech|Code|
+|Topic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Tech|Code|
 |------|---|---|
 |가위바위보 이미지 분류|CNN|[RockScissorsPaper.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/RockScissorsPaper.ipynb)|
 |꽃 분류|VGG16|[FlowerClassifier.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/FlowerClassifier.ipynb)|
 |닮은 동물 분류|CNN|[AnimalFaceClassifier.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/AnimalFaceClassifier.ipynb)|
 |닮은 동물 분류 - 전이학습|Transfer Learning (VGG16)|[AnimalFaceClassifier_TransferLearning.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/AnimalFaceClassifier_TransferLearning.ipynb)|
 |얼굴 사진에 스티커 붙이기|dlib (Face landmark)|[face_detection_sticker.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/face_detection_sticker.ipynb)|
-|배경, 이미지 세그멘테이션&nbsp;&nbsp;|DeepLab model|[OutFocusing.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/OutFocusing.ipynb)|
+|배경, 이미지 세그멘테이션|DeepLab model|[OutFocusing.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/OutFocusing.ipynb)|
 |새로운 패션 만들기|GAN|[Fashion MNIST (GAN).ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Fashion%20MNIST%20(GAN).ipynb)|
 |사진에서 글자 인식, OCR|Google OCR API, Keras_ocr, Tesseract|[OCR.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/OCR.ipynb)|
 |해상도 높이기|SRCNN, SRGAN|[Super Resolution (SRGAN).ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Super%20Resolution%20(SRGAN).ipynb)|
@@ -41,7 +41,7 @@
 
 
 ## 데이터 분석
-|Topic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Tech|Code|
+|Topic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Tech|Code|
 |------|---|---|
 |개인화 추천 시스템|Wide&Deep model|[Lpoint](https://github.com/nr-ai/Aiffel_Exploration/tree/master/Lpoint)
 |유방암 진단|Decision Tree, SVM,Logistic Regression, Random Forest|[Data mining.ipynb](https://github.com/nr-ai/Aiffel_Exploration/blob/master/Data%20mining.ipynb)|
